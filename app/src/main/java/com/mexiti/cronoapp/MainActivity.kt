@@ -8,6 +8,7 @@ import com.mexiti.cronoapp.navigation.NavManager
 import com.mexiti.cronoapp.viewmodel.CronometroViewModel
 import com.mexiti.cronoapp.viewmodel.DataViewModel
 import dagger.hilt.android.AndroidEntryPoint
+import kotlin.text.Typography.dagger
 
 
 @AndroidEntryPoint
